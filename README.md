@@ -160,11 +160,7 @@ Training on the sentence `"The cat sits on the mat"` enables the model to learn 
 - [NLTK Documentation](https://www.nltk.org/)
 - [Gensim Word2Vec](https://radimrehurek.com/gensim/models/word2vec.html)
 
----
 
-## License
-
-This project is licensed under the [MIT License](LICENSE).
 
 ---
 
