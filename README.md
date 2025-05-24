@@ -1,4 +1,4 @@
-````
+
 # Natural Language Processing (NLP) Project Overview
 
 Welcome to the NLP Project Repository. This project applies fundamental and advanced Natural Language Processing (NLP) techniques to transform and analyze text data, enabling a range of downstream applications such as text classification, sentiment analysis, and more. This README provides a detailed overview of the core NLP concepts and preprocessing steps utilized throughout the project.
